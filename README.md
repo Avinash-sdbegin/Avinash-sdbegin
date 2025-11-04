@@ -18,4 +18,4 @@
 </p>
 
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Avinash-sdbegin&show_icons=true&locale=en" alt="Avinash-sdbegin" height="200px" width="300px"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash-sdbegin" alt="Avinash-sdbegin" height="200px" width="300px"/>
