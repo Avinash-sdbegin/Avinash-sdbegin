@@ -27,7 +27,7 @@
 <div align="center">
 <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 </div>
-<h2>🚀 Aspiring Full Stack Developer | MERN Stack Learner | Tech Enthusiast</h2>
+<h2>🚀 Full Stack Developer | Open Source Contributor | Backend & AI Enthusiast</h2>
 <p>I am a passionate Computer Science student who loves building real-world projects and learning modern technologies. I believe in learning by doing, improving every day, and growing through challenges. My goal is to become a skilled software engineer and secure a high-paying tech role in the future.</p>
 
 # 💫 About Me:
@@ -48,13 +48,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Avinash-sdbegin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Avinash-sdbegin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" height="180em"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Avinash-sdbegin&theme=shadow_blue&hide_border=false" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-sdbegin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-sdbegin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/> -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avinash-sdbegin&show_icons=true&theme=tokyonight"/>
 </div>
 
 
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinash-sdbegin&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+</p> -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash-sdbegin&theme=github-compact&hide_border=true" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
