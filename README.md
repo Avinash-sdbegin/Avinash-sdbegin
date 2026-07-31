@@ -27,11 +27,11 @@
 <div align="center">
 <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 </div>
-<h2>🚀 Full Stack Developer | Open Source Contributor | Backend & AI Enthusiast</h2>
-<p>I am a passionate Computer Science student who loves building real-world projects and learning modern technologies. I believe in learning by doing, improving every day, and growing through challenges. My goal is to become a skilled software engineer and secure a high-paying tech role in the future.</p>
+<h2>🚀 Full Stack Developer | Open Source Contributor |  Building Scalable Web Applications | Backend & AI Enthusiast</h2>
+<p>I'm a Computer Science student at IIIT Ranchi who enjoys building production-ready web applications and contributing to open source. I love turning ideas into real products, exploring backend systems, and continuously learning modern web technologies. My current focus is on full-stack development, scalable backend architectures, and AI-powered applications.</p>
 
 # 💫 About Me:
-- 🎓 B.Tech Student (Computer Science & Engineering with specialisation in Data Science and Artificial Intelligence) at IIIT RANCHI <br>- 💻 Interested in Web Development & Software Engineering<br>- 🌱 Currently learning MERN Stack & Data Structures<br>- 🚀 Building projects to improve practical skills<br>- 🎯 Goal: Crack top tech internships & placements<br>- 💡 Always curious about new technologies
+- 🎓 B.Tech Student (Computer Science & Engineering with specialisation in Data Science and Artificial Intelligence) at IIIT RANCHI <br>- 💼 Full Stack Developer Intern <br>- 🌱 Currently exploring Next.js, System Design & Backend Development<br>-  🔭 Building production-ready full stack applications <br> - 🤝 Active Open Source Contributor<br>- ⚡ Interested in Backend Engineering, AI Applications & Scalable Systems<br>- 💡 Always curious about new technologies
 
 
 ## 🌐 Socials
@@ -59,6 +59,17 @@
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Avinash-sdbegin&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p> -->
+## 🎯 Currently Working On
+
+• Full Stack Developer Intern
+<br>
+• Building Full Stack SaaS applications
+<br>
+• Exploring AI Agents
+<br>
+• Backend Development
+<br>
+• Open Source Contributions
 
 ## 📈 Contribution Graph
 
