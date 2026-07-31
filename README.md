@@ -31,7 +31,8 @@
 <p>I'm a Computer Science student at IIIT Ranchi who enjoys building production-ready web applications and contributing to open source. I love turning ideas into real products, exploring backend systems, and continuously learning modern web technologies. My current focus is on full-stack development, scalable backend architectures, and AI-powered applications.</p>
 
 # 💫 About Me:
-- 🎓 B.Tech Student (Computer Science & Engineering with specialisation in Data Science and Artificial Intelligence) at IIIT RANCHI <br>- 💼 Full Stack Developer Intern <br>- 🌱 Currently exploring Next.js, System Design & Backend Development<br>-  🔭 Building production-ready full stack applications <br> - 🤝 Active Open Source Contributor<br>- ⚡ Interested in Backend Engineering, AI Applications & Scalable Systems<br>- 💡 Always curious about new technologies
+- 🎓  B.Tech CSE (Data Science & AI) @ IIIT Ranchi
+<br>- 💼 Full Stack Developer Intern <br>- 🌱 Currently exploring Next.js, System Design & Backend Development<br>-  🔭 Building production-ready full stack applications <br> - 🤝 Active Open Source Contributor<br>- ⚡ Interested in Backend Engineering, AI Applications & Scalable Systems<br>- 💡 Always curious about new technologies
 
 
 ## 🌐 Socials
